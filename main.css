@@ -1,0 +1,41 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(51, 255, 0);
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: rgb(51, 255, 0);
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.carousel-item img{
+    width: 100%;
+    margin: 18px 0;
+}
+
+#futebol,
+#volei {
+    background-color: rgb(208, 245, 208);
+}
+
+.cor-das-letras {
+    color: green;
+}
+
+.btn {
+    background-color: green;
+    color: #fff;
+}
